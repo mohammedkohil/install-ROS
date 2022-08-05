@@ -2,11 +2,11 @@
 Robot Operating System: Installation Instructions for Ubuntu
 
 Setup Ubuntu in a VM
-Get a free key for VMware Fusion Player
-On the same page, download VMware Fusion player for your operating System
-Install VMware Fusion Player
-Get the Ubuntu 20.04 ISO
-Install Ubuntu as a VMware virtual machine
+1- Get a free key for VMware Fusion Player
+2- On the same page, download VMware Fusion player for your operating System
+3- Install VMware Fusion Player
+4-Get the Ubuntu 20.04 ISO
+5-Install Ubuntu as a VMware virtual machine
 
 Setup ROS
 On your Ubuntu machine, follow these steps to install ROS Noetic:
